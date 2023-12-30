@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">    
+  <channel>
+      <title>El Mochuelo: Noticias optimistas para antes de dormir</title>
+      <atom:link href="http://marialauraramos.es/tarea-sindicacion/pruebaSindicacion.xml" rel="self" type="application/rss+xml"/>
+      <link>http://marialauraramos.es/tarea-sindicacion/index.html</link>
+      <description>Mucho más que una recopilación de noticias positivas; somos un respiro antes de sumergirte en el sueño.</description>
+      <item>
+        <title>Antes de cerrar los ojos, te invitamos a echar un vistazo rápido al clima del día siguiente</title>
+        <link>https://www.tiempo.es/granada-granada-es0gd0075.html</link>
+        <guid>https://www.tiempo.es/granada-granada-es0gd0075.html</guid>
+        <pubDate>Thu, 21 Dec 2023 06:00:00 GMT</pubDate>        
+        <description>Aquí encontrarás la información clave que necesitas para planificar tu jornada con anticipación. Relájate, consulta la previsión y prepárate para descansar con la tranquilidad de saber qué te depara el tiempo mañana.</description>
+      </item>
+      <item>
+        <title>El presidente Nicolás Maduro ha anunciado su renuncia al cargo, marcando el fin de una era en Venezuela</title>
+        <link>http://marialauraramos.es/tarea-sindicacion/noticia1.html</link>
+        <guid>http://marialauraramos.es/tarea-sindicacion/noticia1.html</guid>
+        <pubDate>Wed, 20 Dec 2023 13:00:00 GMT</pubDate>        
+        <description>Tras años de tensiones políticas y sociales, la noticia ha sido recibida con un cúmulo de emociones encontradas en todo el país.</description>
+      </item>
+      <item>
+        <title>Increíble descubrimiento: Logran convertir el agua en vino</title>
+        <link>http://marialauraramos.es/tarea-sindicacion/noticia2.html</link>
+        <guid>http://marialauraramos.es/tarea-sindicacion/noticia2.html</guid>
+        <pubDate>Wed, 13 Dec 2023 13:00:00 GMT</pubDate>        
+        <description>Este hito científico ha dejado perplejos a expertos y entusiastas por igual, abriendo un nuevo mundo de posibilidades en la producción de bebidas alcohólicas.</description>
+      </item>
+      <item>
+        <title>Increíble suceso: Velázquez se reencarna en el pintor sevillano Carlos Jiménez Martín</title>
+        <link>http://marialauraramos.es/tarea-sindicacion/noticia3.html</link>
+        <guid>http://marialauraramos.es/tarea-sindicacion/noticia3.html</guid>
+        <pubDate>Sun, 11 Jun 2023 13:00:00 GMT</pubDate>        
+        <description>Este pintor sevillano, residente en Granada desde hace más de 40 años, ha sorprendido al mundo del arte con la revelación de su conexión espiritual con el maestro del Siglo de Oro.</description>
+      </item>
+  </channel>
+</rss>
